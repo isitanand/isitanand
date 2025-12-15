@@ -13,11 +13,11 @@ Computer science undergraduate building software that is fast, usable, and meant
 - Prefer **clean engineering and iteration** over abstractions and hype
 
 ---
-
 ### Tech I work with
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,python,nextjs,pandas,figma,java,ts,mysql,cpp,vscode,firebase,redux,nodejs,linux&perline=15" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,nextjs,figma,java,ts,mysql,cpp,vscode,firebase,redux,nodejs,linux,git&perline=20" />
 </p>
+
 
 
 ---
