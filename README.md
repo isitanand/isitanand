@@ -16,8 +16,9 @@ Computer science undergraduate building software that is fast, usable, and meant
 
 ### Tech I work with
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,expo,nextjs,ts,nodejs,python,postgres,linux,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=react,js,python,nextjs,pandas,figma,java,ts,mysql,cpp,vscode,firebase,redux,nodejs,linux&perline=15" />
 </p>
+
 
 ---
 
