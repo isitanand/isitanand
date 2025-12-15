@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://cdn-images.dzcdn.net/images/cover/e17951d3645ab527ff9d29b6ad6e261d/500x500-000000-80-0-0.jpg"  />
-</div>
-
-###
-
 <p align="left">Computer science undergraduate crafting mobile-first and full stack products<br><br>• Building high-performance mobile apps and cross-platform tools with a focus on UX and speed  <br>• Enjoy turning complex workflows into simple, automated experiences  <br>• Exploring full-stack architectures, search systems, and AI-driven features  <br>• Interested in how data, systems, and design come together at scale  <br>• Strong bias towards shipping, iteration, and clean engineering practices  <br><br>Let’s connect — Telegram @anandchoubey</p>
 
 ###
@@ -75,14 +69,8 @@
 ###
 
 <div align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@isitanand/0">
+    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@isitanand/0" alt="Medium post 1"  />
   </a>
 </div>
 
