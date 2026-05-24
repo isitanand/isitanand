@@ -1,13 +1,13 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand Choubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full Stack & Flutter Developer&descAlignY=55" width="100%"/>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anand Choubey+👋;Full Stack & Flutter Developer;Full Stack & Flutter Developer" alt="Typing SVG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anand%20Choubey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20%26%20Flutter%20Developer&descAlignY=55" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Anand+Choubey+%F0%9F%91%8B;Full+Stack+%26+Flutter+Developer;Building+fast%2C+opinionated+software" alt="Typing SVG"/>
 </div>
 
 ## ⌨️ About Me
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full%20Stack%20%26%20Flutter%20Developer%3BFull%20Stack%20%26%20Flutter%20Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+%26+Flutter+Developer%3BBuilding+real+products+for+web+%26+mobile" alt="Typing SVG" />
   </a>
 </p>
 
